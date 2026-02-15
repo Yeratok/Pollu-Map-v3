@@ -1,6 +1,6 @@
 # 📁 Assets Folder
 
-This folder contains images for Pollu-Map.
+This folder contains images for Pollu-Map by Yeratok.
 
 ## Files to Add
 
@@ -13,7 +13,7 @@ This folder contains images for Pollu-Map.
 
 ## How to Add Screenshots
 
-1. Open live demo: https://yerassyl.github.io/pollu-map/
+1. Open live demo: https://yeratok.github.io/pollu-map/
 2. Take screenshots (Cmd+Shift+4 on Mac, Windows+Shift+S on Windows)
 3. Save in this folder with names above
 
