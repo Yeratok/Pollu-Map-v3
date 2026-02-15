@@ -7,7 +7,7 @@
     <a href="https://yeratok.github.io/Pollu-Map-v3/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Live Demo"></a>
     <img src="https://img.shields.io/badge/INFOMATRIX-2026-purple" alt="INFOMATRIX">
   </p>
-  <h3>👉 <a href="\https://yeratok.github.io/Pollu-Map-v3/">CLICK HERE FOR LIVE DEMO</a> 👈</h3>
+  <h3>👉 <a href="https://yeratok.github.io/Pollu-Map-v3/">CLICK HERE FOR LIVE DEMO</a> 👈</h3>
 </div>
 
 ---
@@ -153,7 +153,7 @@ pollu-map/
 └── 📁 data/               # Sensor data
 🚀 Quick Start
 1. View Live Demo
-👉 https://yeratok.github.io/pollu-map/
+👉 https://yeratok.github.io/Pollu-Map-v3/
 
 2. Use For Your City
 bash
@@ -176,7 +176,7 @@ Yerassyl Belgozha (Yeratok)
 💡 Environmental Technology
 
 📬 Links
-Live Demo	https://yeratok.github.io/pollu-map/
-GitHub	https://github.com/yeratok/pollu-map
+Live Demo	https://yeratok.github.io/Pollu-Map-v3/
+GitHub	https://github.com/yeratok/Pollu-Map-v3
 INFOMATRIX	2026 Submission
 <div align="center"> <h3>⭐ If you find this useful, please star the repo! ⭐</h3> <p>© 2026 Pollu-Map - Created for INFOMATRIX 2026 by Yeratok</p> <h3>👉 <a href="https://yeratok.github.io/Pollu-Map-v3/">CLICK FOR LIVE DEMO</a> 👈</h3> </div> ```
