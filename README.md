@@ -4,10 +4,10 @@
   <h1>Hyper-local Air Quality with AI-Powered 5-Minute Spike Detection</h1>
   <p><strong>🏆 INFOMATRIX 2026 Official Submission - Yerassyl Belgozha 🏆</strong></p>
   <p>
-    <a href="https://yerassyl.github.io/pollu-map/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Live Demo"></a>
+    <a href="https://Yeratok.github.io/pollu-map/"><img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Live Demo"></a>
     <img src="https://img.shields.io/badge/INFOMATRIX-2026-purple" alt="INFOMATRIX">
   </p>
-  <h3>👉 <a href="https://yerassyl.github.io/pollu-map/">CLICK HERE FOR LIVE DEMO</a> 👈</h3>
+  <h3>👉 <a href="https://Yeratok.github.io/pollu-map/">CLICK HERE FOR LIVE DEMO</a> 👈</h3>
 </div>
 
 ---
@@ -180,4 +180,4 @@ Yerassyl Belgozha
 Live Demo	https://yerassyl.github.io/pollu-map/
 GitHub	https://github.com/yerassyl/pollu-map
 INFOMATRIX	2026 Submission
-<div align="center"> <h3>⭐ If you find this useful, please star the repo! ⭐</h3> <p>© 2026 Pollu-Map - Created for INFOMATRIX 2026</p> <h3>👉 <a href="https://yerassyl.github.io/pollu-map/">CLICK FOR LIVE DEMO</a> 👈</h3> </div> ```
+<div align="center"> <h3>⭐ If you find this useful, please star the repo! ⭐</h3> <p>© 2026 Pollu-Map - Created for INFOMATRIX 2026</p> <h3>👉 <a href="https://Yeratok.github.io/pollu-map/">CLICK FOR LIVE DEMO</a> 👈</h3> </div> ```
