@@ -1,0 +1,9 @@
+sensor_id,location,type,latitude,longitude,pm25,status,last_spike
+AQ001,Downtown - Main St,Urban,40.7128,-74.0060,23.4,normal,2h ago
+AQ002,School Zone - Lincoln Elementary,Sensitive,40.7135,-74.0055,89.7,spike,ACTIVE NOW
+AQ003,Industrial Park,Industrial,40.7142,-74.0070,45.6,moderate,45m ago
+AQ004,Riverside Residential,Residential,40.7115,-74.0080,18.2,normal,5h ago
+AQ005,Highway 101 Interchange,Traffic,40.7120,-74.0045,67.3,spike,ACTIVE NOW
+AQ006,City Park,Recreation,40.7130,-74.0090,12.8,normal,12h ago
+AQ007,Hospital District,Healthcare,40.7145,-74.0065,21.5,normal,3h ago
+AQ008,Shopping Mall,Commercial,40.7110,-74.0050,34.2,moderate,20m ago
