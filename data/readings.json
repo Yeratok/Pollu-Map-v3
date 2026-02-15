@@ -1,0 +1,22 @@
+{
+  "last_updated": "2026-02-13T10:35:00Z",
+  "total_sensors": 8,
+  "spikes_today": 7,
+  "average_pm25": 32.4,
+  "readings": [
+    {"sensor_id": "AQ001", "pm25": 23.4, "status": "normal"},
+    {"sensor_id": "AQ002", "pm25": 89.7, "status": "spike", "spike_duration": 3},
+    {"sensor_id": "AQ003", "pm25": 45.6, "status": "moderate"},
+    {"sensor_id": "AQ004", "pm25": 18.2, "status": "normal"},
+    {"sensor_id": "AQ005", "pm25": 67.3, "status": "spike", "spike_duration": 2},
+    {"sensor_id": "AQ006", "pm25": 12.8, "status": "normal"},
+    {"sensor_id": "AQ007", "pm25": 21.5, "status": "normal"},
+    {"sensor_id": "AQ008", "pm25": 34.2, "status": "moderate"}
+  ],
+  "ai_patterns": [
+    {"pattern": "Morning Rush Hour", "impact": "+45%", "confidence": "98%"},
+    {"pattern": "School Pickup Spikes", "impact": "5-min events", "confidence": "95%"},
+    {"pattern": "Weekend Effect", "impact": "-60%", "confidence": "97%"},
+    {"pattern": "Weather Impact", "impact": "-70%", "confidence": "96%"}
+  ]
+}
